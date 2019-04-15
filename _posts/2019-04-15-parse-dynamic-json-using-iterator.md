@@ -74,7 +74,7 @@ public class SampleJson {
 
 ---
 
-### The Explaination
+### The Explanation:
 In the above java code, we defined a String variable to store the json value for this example. Then inside the try catch we initialized the JSONObject with the jsonValue and retrieved the currentScore and totalScore JSONObjects. Now, we initialized the Iterator object with the keys of currentScore.
 ```Java
  Iterator<String> iterator = currentScore.keys();
